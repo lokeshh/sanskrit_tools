@@ -2,10 +2,28 @@
 <br>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 <hr>
 
-List of great Samskrit tools
+## List of great Samskrit tools
+
+* [संस्कृत संसाधन](#संस्कृत-संसाधन)
+  * [धातु रूप](#धातु-रूप)
+  * [शब्द रूप](#शब्द-रूप)
+  * [लिपि](#लिपि)
+  
+  
+## धातु रूप
+* [Ashtadhyayi-Dhatu](http://ashtadhyayi.com/dhatu/) - View dhatu roop.
+
+## शब्द रूप
+* [Sanskrit Abhyas - Noun list](http://sanskritabhyas.in/en/Noun/List/) - View shabd roop.
+
+## लिपि
+* [Aksharmukhi](http://aksharamukha.appspot.com/converter) - Script convertor.
+
+
+
 
 
