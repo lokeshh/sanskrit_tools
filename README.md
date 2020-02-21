@@ -12,6 +12,7 @@
   * [धातु रूप](#धातु-रूप)
   * [शब्द रूप](#शब्द-रूप)
   * [लिपि](#लिपि)
+  * [शब्द कोश](#शब्द-कोश)
   
   
 ## धातु रूप
@@ -22,6 +23,9 @@
 
 ## लिपि
 * [Aksharmukhi](http://aksharamukha.appspot.com/converter) - Script convertor.
+
+## शब्द कोश
+* [Sanskrit Today - KST](https://kosha.sanskrit.today/) - Best Samskrit dictionary.
 
 
 
