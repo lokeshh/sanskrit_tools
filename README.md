@@ -6,7 +6,7 @@
 
 <hr>
 
-## List of great Samskrit tools
+## List of great Sanskrit tools
 
 * [संस्कृत संसाधन](#संस्कृत-संसाधन)
   * [धातु रूप](#धातु-रूप)
@@ -25,7 +25,7 @@
 * [Aksharmukhi](http://aksharamukha.appspot.com/converter) - Script convertor.
 
 ## शब्द कोश
-* [Sanskrit Today - KST](https://kosha.sanskrit.today/) - Best Samskrit dictionary.
+* [Sanskrit Today - KST](https://kosha.sanskrit.today/) - Best Sanskrit dictionary.
 
 
 
