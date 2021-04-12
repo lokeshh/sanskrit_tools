@@ -13,6 +13,7 @@
   * [शब्द रूप](#शब्द-रूप)
   * [लिपि](#लिपि)
   * [शब्द कोश](#शब्द-कोश)
+  * [अष्टाध्यायी](#अष्टाध्यायी)
   
   
 ## धातु रूप
@@ -26,6 +27,9 @@
 
 ## शब्द कोश
 * [Sanskrit Today - KST](https://kosha.sanskrit.today/) - Best Sanskrit dictionary.
+
+## अष्टाध्यायी
+* [अष्टाध्यायी सूत्रपाठः धातुपाठः च](https://ashtadhyayi.com) - Ashtadhyayi / Sidhanta Kaumudi 
 
 
 
