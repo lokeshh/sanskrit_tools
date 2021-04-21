@@ -27,6 +27,7 @@
 
 ## शब्द कोश
 * [Sanskrit Today - KST](https://kosha.sanskrit.today/) - Best Sanskrit dictionary.
+* [Sanskrit Dictionary for Spoken Sanskrit](https://www.learnsanskrit.cc/)
 
 ## अष्टाध्यायी
 * [अष्टाध्यायी सूत्रपाठः धातुपाठः च](https://ashtadhyayi.com) - Ashtadhyayi / Sidhanta Kaumudi 
