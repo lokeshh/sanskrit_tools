@@ -29,6 +29,7 @@ Deployed at [https://lokeshh.github.io/sanskrit_tools](https://lokeshh.github.io
 ## शब्द कोश
 * [Sanskrit Today - KST](https://kosha.sanskrit.today/) - Best Sanskrit dictionary.
 * [Sanskrit Dictionary for Spoken Sanskrit](https://www.learnsanskrit.cc/)
+* [Ashtadhyayi Sanskrit Kosha](https://ashtadhyayi.com/kosha/)
 
 ## अष्टाध्यायी
 * [अष्टाध्यायी सूत्रपाठः धातुपाठः च](https://ashtadhyayi.com) - Ashtadhyayi / Sidhanta Kaumudi 
