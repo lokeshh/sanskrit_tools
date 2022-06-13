@@ -15,6 +15,7 @@ Deployed at [https://lokeshh.github.io/sanskrit_tools](https://lokeshh.github.io
   * [लिपि](#लिपि)
   * [शब्द कोश](#शब्द-कोश)
   * [अष्टाध्यायी](#अष्टाध्यायी)
+  * [OCR](#OCR)
   
   
 ## धातु रूप
@@ -22,9 +23,12 @@ Deployed at [https://lokeshh.github.io/sanskrit_tools](https://lokeshh.github.io
 
 ## शब्द रूप
 * [Sanskrit Abhyas - Noun list](http://sanskritabhyas.in/en/Noun/List/) - View shabd roop.
+* [Ashtadhyayi-Dhatu](https://ashtadhyayi.com/shabda/) - View shabd roop.
 
 ## लिपि
 * [Aksharmukhi](http://aksharamukha.appspot.com/converter) - Script convertor.
+* [Sharda lipi](https://satisarsharada.appspot.com/) - Sharda lipi.
+* [Vedic Sanskrit](https://www.lexilogos.com/keyboard/sanskrit_vedic.htm) - Type vedic sanskrit symbols.
 
 ## शब्द कोश
 * [Sanskrit Today - KST](https://kosha.sanskrit.today/) - Best Sanskrit dictionary.
@@ -34,7 +38,8 @@ Deployed at [https://lokeshh.github.io/sanskrit_tools](https://lokeshh.github.io
 ## अष्टाध्यायी
 * [अष्टाध्यायी सूत्रपाठः धातुपाठः च](https://ashtadhyayi.com) - Ashtadhyayi / Sidhanta Kaumudi 
 
-
+## OCR
+* [OCR](https://ocr.sanskritdictionary.com/) - Extract Sanskrit text from image.
 
 
 
