@@ -1,4 +1,4 @@
-# संस्कृत संसाधन [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# संस्कृत-संसाधनानि [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Deployed at [https://lokeshh.github.io/sanskrit_tools](https://lokeshh.github.io/sanskrit_tools)
 <br>
 
